@@ -1,0 +1,42 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+build/
+dist/
+
+# Docker
+.docker/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.tmp
+*.temp
+
+# Google Cloud
+.gcloud/
